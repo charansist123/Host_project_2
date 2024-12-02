@@ -1,0 +1,20 @@
+
+
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+   
+}
+
+.Number_1 {
+    background-color: aqua;
+    width: fit-content;
+    height: fit-content;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
